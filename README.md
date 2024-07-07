@@ -42,6 +42,7 @@ Fabián Lecaros:
 1. Preparación de Ingredientes: `etapa-preparacion-ingredientes`
 2. Mezcla y Amasado: `etapa-mezcla-amasado`
 3. Fermentación: `etapa-fermentacion`
+
 Hector Aguila:
 4. Moldeado y Segunda Fermentación: `etapa-moldeado-segunda-fermentacion`
 5. Horneado: `etapa-horneado`
