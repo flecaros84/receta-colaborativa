@@ -41,9 +41,8 @@ La distribución de nuestro trabajo fue la siguiente:
 Fabián Lecaros:
 1. Preparación de Ingredientes: `etapa-preparacion-ingredientes`
 2. Mezcla y Amasado: `etapa-mezcla-amasado`
-Franco Ruz
 3. Fermentación: `etapa-fermentacion`
-4. Moldeado y Segunda Fermentación: `etapa-moldeado-segunda-fermentacion`
 Hector Aguila:
+4. Moldeado y Segunda Fermentación: `etapa-moldeado-segunda-fermentacion`
 5. Horneado: `etapa-horneado`
 6. Decoración y Presentación: `etapa-decoracion-presentacion`
